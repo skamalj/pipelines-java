@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/skamalj-org/PartsUnlimited/_apis/build/status/skamalj.pipelines-java?branchName=master)](https://dev.azure.com/skamalj-org/PartsUnlimited/_build/latest?definitionId=7&branchName=master)
 
 # Contributing
 
